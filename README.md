@@ -1,24 +1,3 @@
-# README
+### stimulus-autocompleteを使ったオートコンプリート機能実装の練習。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[こちらのサイト](https://qiita.com/Yamamoto-Masaya1122/items/879d6eb540ce4e05cfe5#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)をみて練習した。
